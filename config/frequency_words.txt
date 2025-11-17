@@ -2,15 +2,21 @@
 
 习近平
 
+台湾
+
 卡普空
+Capcom
 
 Valve
+V社
 
-DeepSeek
+X
+Twitter
+推特
+
+好莱坞
 
 比亚迪
-
-申奥
 
 特斯拉
 马斯克
@@ -28,6 +34,7 @@ AMD
 google
 gemini
 deepmind
+Nano banana
 
 chatgpt
 openai
